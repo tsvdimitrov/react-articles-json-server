@@ -1,4 +1,5 @@
 import { useParams } from 'react-router-dom';
+import useFetch from './useFetch';
 
 const ArticleDetails = () => {
     const { id } = useParams();
