@@ -1,0 +1,25 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "image": "https://c.files.bbci.co.uk/11F6A/production/_114387537_ak1-1.jpg",
+            "title": "Alicia Keys: 'I felt I was from another planet'",
+            "excerpt": "The R&B star on felling like an 'outsider', police brutality and the advice she gave Billie Eilish",
+            "category": "| ENTERTAINMENT & ARTS"
+        },
+        {
+            "id": 2,
+            "image": "https://c.files.bbci.co.uk/12355/production/_114418547_index.jpg",
+            "title": "Alligator on gas snaps up Ig Nobel prize",
+            "excerpt": "The 2020 Ig Nobel prizes honour crocodilian vocalisations, narcisstic eyebrows and vibrating worms",
+            "category": "| SCIENCE & ENVIRONMENT"
+        },
+        {
+            "id": 3,
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/E291/production/_114410085_cut2.jpg",
+            "title": "Banksy loses 'flower bomber' trademark battle",
+            "excerpt": "The elusive artist was 'inconsistent' in the case, EU authorities say",
+            "category": "| ENTERTAINMENT & ARTS"
+        }
+    ]
+}
